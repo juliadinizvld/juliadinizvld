@@ -2,6 +2,8 @@
 
 
 Oi, me chamo Júlia, tenho 22 anos faço faculdade de Analise e desenvolvimento de Sistemas no Instutito federal de Pernambuco. Sou uma pessoa bastante curiosa e sempre em busca de conhecimento. Esse meu lado me levou a procurar mais sobre a area de tecnologia e descobrir algo que gosto e que sou boa! Venho de uma família de 7 irmãos, então almejo sempre algo que possa me destacar e me desafiar. Aqui no meu perfil tem algum dos projetos em que desenvolvi, e outros como colaboradora como: 
+https://github.com/kemellynasc/projetoweb
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
