@@ -1,7 +1,7 @@
 ## E aí, veja um pouco sobre mim ✨🧚
 
 
-Oi, me chamo Júlia, tenho 22 anos faço faculdade de Analise e desenvolvimento de Sistemas no Instutito federal de Pernambuco. Sou uma pessoa bastante curiosa e sempre em busca de conhecimento. Esse meu lado me levou a procurar mais sobre a area de tecnologia e descobrir algo que gosto e que sou boa! Venho de uma família de 7 irmãos, então almejo sempre algo que possa me destacar e me desafiar. Aqui no meu perfil você encintra alguns dos projetos em que desenvolvi, e outros como colaboradora como: 
+Oi, me chamo Júlia, tenho 23 anos faço faculdade de Analise e desenvolvimento de Sistemas no Instutito federal de Pernambuco. Sou uma pessoa bastante curiosa e sempre em busca de conhecimento. Esse meu lado me levou a procurar mais sobre a area de tecnologia e descobrir algo que gosto e uma forma de me desafiar. Aqui no meu perfil você encontra alguns dos projetos em que desenvolvi, e outros como colaboradora como: 
 https://github.com/kemellynasc/projetoweb
 
 
@@ -18,7 +18,6 @@ https://github.com/kemellynasc/projetoweb
   ##
  
 <div> 
-  <a href="https://www.instagram.com/juliadinizvld/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:juliadinizvaladares@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/j%C3%BAlia-diniz-valadares-0618ba240/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
