@@ -69,11 +69,12 @@ Este projeto foi desenvolvido na disciplina de **Desenvolvimento Web 2**, com o 
   </a> 
 </div>
 
- Fique à vontade para entrar em contato para qualquer dúvida, colaboração ou questão! Obrigada 👋
+
+ Fique à vontade para entrar em contato para qualquer dúvida, colaboração ou questão! Obrigada 
 
  *Feel free to reach out for any inquiries, collaborations, or questions! Thanks*
 
-
+  🩷👋
 
 
 
