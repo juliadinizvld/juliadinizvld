@@ -1,7 +1,7 @@
 ## E aí, veja um pouco sobre mim | Hey, take a look a little about me ✨🧚
 
 
-Oi, me chamo Júlia, tenho 23 anos faço faculdade de Analise e desenvolvimento de Sistemas no Instutito federal de Pernambuco. Sou uma pessoa bastante curiosa e sempre em busca de conhecimento. Esse meu lado me levou a procurar mais sobre a area de tecnologia e descobrir algo que gosto e também uma forma de me desafiar. Aqui no meu perfil você encontra alguns dos projetos que participei/estou participando:
+Oi, me chamo Júlia, tenho 23 anos faço faculdade de Analise e desenvolvimento de Sistemas no Instutito federal de Pernambuco. Sou uma pessoa bastante curiosa e sempre em busca de conhecimento. Esse meu lado me levou a procurar mais sobre a área de tecnologia e descobrir algo que gosto e também uma forma de me desafiar. Aqui no meu perfil você encontra alguns dos projetos que participei/estou participando:
 
 *Hi, my name is Júlia, I’m 23 years old, and I’m studying Systems Analysis and Development at the Federal Institute of Pernambuco. I’m a very curious person and always in search of knowledge. This trait led me to explore the field of technology, discover something I enjoy, and also find a way to challenge myself. Here on my profile, you can find some of the projects I have participated in/am participating in:*
 
@@ -74,7 +74,7 @@ Este projeto foi desenvolvido na disciplina de **Desenvolvimento Web 2**, com o 
 
  *Feel free to reach out for any inquiries, collaborations, or questions! Thanks*
 
-  🩷👋
+ 💗👋🏼
 
 
 
