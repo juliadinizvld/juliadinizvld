@@ -67,9 +67,8 @@ Este projeto foi desenvolvido na disciplina de **Desenvolvimento Web 2**, com o 
   <a href="https://www.linkedin.com/in/j%C3%BAlia-diniz-valadares-0618ba240/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
- <br>
 </div>
-
+<br>
 
  Fique à vontade para entrar em contato para qualquer dúvida, colaboração ou questão! Obrigada 
 
