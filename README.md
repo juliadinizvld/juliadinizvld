@@ -1,9 +1,17 @@
 ## E aí, veja um pouco sobre mim | Hey, take a look a little about me ✨🧚
 
 
-Oi, me chamo Júlia, tenho 23 anos faço faculdade de Analise e desenvolvimento de Sistemas no Instutito federal de Pernambuco. Sou uma pessoa bastante curiosa e sempre em busca de conhecimento. Esse meu lado me levou a procurar mais sobre a área de tecnologia e descobrir algo que gosto e também uma forma de me desafiar. Aqui no meu perfil você encontra alguns dos projetos que participei/estou participando:
+Oi, me chamo Júlia, tenho 23 anos faço faculdade de Analise e desenvolvimento de Sistemas no Instutito federal de Pernambuco. Sou uma pessoa bastante curiosa e sempre em busca de conhecimento. Esse meu lado me levou a procurar mais sobre a área de tecnologia e descobrir algo que gosto e também uma forma de me desafiar. Tenho perfil proativo e me empenho em projetos que me ajudam a crescer profissionalmente. Estou sempre aberta a novos desafios e oportunidades para aplicar o que aprendo, seja na faculdade, em projetos pessoais ou em colaborações.
 
-*Hi, my name is Júlia, I’m 23 years old, and I’m studying Systems Analysis and Development at the Federal Institute of Pernambuco. I’m a very curious person and always in search of knowledge. This trait led me to explore the field of technology, discover something I enjoy, and also find a way to challenge myself. Here on my profile, you can find some of the projects I have participated in/am participating in:*
+Minhas principais tecnologias são Python e Java, que uso tanto para backend quanto para análise de dados e machine learning. Também tenho experiência com frameworks como Django para desenvolvimento web, e conheço bancos de dados relacionais (MySQL, SQLite) e não relacionais (MongoDB). No front-end, trabalho com HTML, CSS e JavaScript para criar interfaces simples e funcionais. Além disso, uso Git e GitHub para versionamento e colaboração. Busco sempre aprofundar meus conhecimentos em novas linguagens e ferramentas, especialmente em Machine Learning e Cloud Computing.
+
+Aqui no meu perfil você encontra alguns dos projetos que participei/estou participando:
+
+*Hi, my name is Júlia, I’m 23 years old, and I’m studying Systems Analysis and Development at the Federal Institute of Pernambuco. I’m a very curious person and always in search of knowledge. This trait led me to explore the field of technology, discover something I enjoy, and also find a way to challenge myself. I have a proactive attitude and dedicate myself to projects that help me grow professionally. I’m always open to new challenges and opportunities to apply what I learn, whether at university, personal projects, or collaborations.*
+
+*My main technologies are Python and Java, which I use for backend development, data analysis, and machine learning. I also have experience with frameworks like Django for web development, and I’m familiar with relational databases (MySQL, SQLite) and non-relational ones (MongoDB). On the front-end, I work with HTML, CSS, and JavaScript to build simple and functional interfaces. Additionally, I use Git and GitHub for version control and collaboration. I’m always looking to deepen my knowledge in new languages and tools, especially in Machine Learning and Cloud Computing.*
+
+*Here on my profile, you can find some of the projects I have participated in/am participating in:*
 
 ### [Sistema de Clínica Veterinária | *Veterinary Clinic System*](https://github.com/juliadinizvld/projeto_lpoo) 
  
@@ -35,13 +43,8 @@ O objetivo principal é prever a classe do feijão (dentre 7 tipos) a partir des
 
 Este projeto foi desenvolvido na disciplina de **Desenvolvimento Web 2**, com o objetivo de criar uma aplicação web dinâmica utilizando a arquitetura **MVC**. O sistema permite realizar operações de **CRUD** sobre entidades, sendo implementado com **Python** e o framework **Django** no backend, e **SQLite** para armazenamento de dados. A aplicação incorpora práticas avançadas como **Microsserviços**, **Publish-Subscribe** e **Serverless**, garantindo escalabilidade e flexibilidade. A implantação foi realizada na **AWS**, utilizando **Cloud9** para desenvolvimento e **EC2** para execução em ambiente de produção.
 
-*This project was developed in the **Web Development 2** course, with the goal of creating a dynamic web application using the **MVC** architecture. The system allows performing **CRUD** operations on entities, implemented with **Python** and the **Django** framework on the backend, and **SQLite** for data storage. The application incorporates advanced practices such as **Microservices**, **Publish-Subscribe**, and **Serverless**, ensuring scalability and flexibility. Deployment was done on **AWS**, using **Cloud9** for development and **EC2** for production environment execution.* 
+*This project was developed in the **Web Development 2** course, with the goal of creating a dynamic web application using the **MVC** architecture. The system allows performing **CRUD** operations on entities, implemented with **Python** and the **Django** framework on the backend, and **SQLite** for data storage. The application incorporates advanced practices such as **Microservices**, **Publish-Subscribe**, and **Serverless**, ensuring scalability and flexibility. Deployment was done on **AWS**, using **Cloud9** for development and **EC2** for production environment execution.* <br>
 
-Além dos projetos listados acima, também colaboro em outros repositórios de terceiros, que estão disponíveis na aba **"Stars"** do meu perfil.  
-Lá você pode conferir trabalhos que apoiei ou contribuí, mas que estão hospedados em perfis de outras pessoas.
-
-*Besides the projects listed here, I also collaborate on other third-party repositories, which you can find in the **"Stars"** tab of my profile.  
-There, you can check out works I have supported or contributed to that are hosted in other people's profiles.*
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -62,6 +65,12 @@ There, you can check out works I have supported or contributed to that are hoste
 </div>
 
   ##
+
+Além dos projetos listados acima, também colaboro em outros repositórios de terceiros, que estão disponíveis na aba **"Stars"** do meu perfil.  
+Lá você pode conferir trabalhos que apoiei ou contribuí, mas que estão hospedados em perfis de outras pessoas.
+
+*Besides the projects listed here, I also collaborate on other third-party repositories, which you can find in the **"Stars"** tab of my profile.  
+There, you can check out works I have supported or contributed to that are hosted in other people's profiles.*
 
  Informações para contato | *Contact Information*
 
