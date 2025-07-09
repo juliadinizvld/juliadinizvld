@@ -37,6 +37,12 @@ Este projeto foi desenvolvido na disciplina de **Desenvolvimento Web 2**, com o 
 
 *This project was developed in the **Web Development 2** course, with the goal of creating a dynamic web application using the **MVC** architecture. The system allows performing **CRUD** operations on entities, implemented with **Python** and the **Django** framework on the backend, and **SQLite** for data storage. The application incorporates advanced practices such as **Microservices**, **Publish-Subscribe**, and **Serverless**, ensuring scalability and flexibility. Deployment was done on **AWS**, using **Cloud9** for development and **EC2** for production environment execution.* 
 
+Além dos projetos listados acima, também colaboro em outros repositórios de terceiros, que estão disponíveis na aba **"Stars"** do meu perfil.  
+Lá você pode conferir trabalhos que apoiei ou contribuí, mas que estão hospedados em perfis de outras pessoas.
+
+*Besides the projects listed here, I also collaborate on other third-party repositories, which you can find in the **"Stars"** tab of my profile.  
+There, you can check out works I have supported or contributed to that are hosted in other people's profiles.*
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
