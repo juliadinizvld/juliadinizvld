@@ -3,13 +3,35 @@
 
 Oi, me chamo Júlia, tenho 23 anos faço faculdade de Analise e desenvolvimento de Sistemas no Instutito federal de Pernambuco. Sou uma pessoa bastante curiosa e sempre em busca de conhecimento. Esse meu lado me levou a procurar mais sobre a área de tecnologia e descobrir algo que gosto e também uma forma de me desafiar. Tenho perfil proativo e me empenho em projetos que me ajudam a crescer profissionalmente. Estou sempre aberta a novos desafios e oportunidades para aplicar o que aprendo, seja na faculdade, em projetos pessoais ou em colaborações.
 
-Minhas principais tecnologias são Python e Java, que uso tanto para backend quanto para análise de dados e machine learning. Também tenho experiência com frameworks como Django para desenvolvimento web, e conheço bancos de dados relacionais (MySQL, SQLite) e não relacionais (MongoDB). No front-end, trabalho com HTML, CSS e JavaScript para criar interfaces simples e funcionais. Além disso, uso Git e GitHub para versionamento e colaboração. Busco sempre aprofundar meus conhecimentos em novas linguagens e ferramentas, especialmente em Machine Learning e Cloud Computing.
+Atualmente, estou estagiando na Nutrihouse como desenvolvedora full stack, onde tenho a oportunidade de aplicar e aprimorar meus conhecimentos na área de tecnologia, contribuindo para o crescimento da empresa e ampliando minhas habilidades práticas.
+
+Minhas principais tecnologias são Python e JavaScript, que utilizo tanto para desenvolvimento quanto para análise de dados e aplicações de machine learning. Tenho experiência prática com frameworks como Django e Spring Boot para o desenvolvimento web no backend, e React.js e Node.js para criação e integração de interfaces dinâmicas no frontend e backend. No design e prototipagem de interfaces, uso o Figma, além de empregar Bootstrap e Tailwind CSS para estilização responsiva.
+
+Trabalho com o desenvolvimento completo de aplicações, desde a modelagem de banco de dados até a criação de APIs REST e integração entre sistemas. Tenho domínio em bancos de dados relacionais como MySQL, SQLite, MariaDB e PostgreSQL, além de conhecimento em bancos não relacionais como MongoDB, com foco em consultas otimizadas e estruturação eficiente dos dados.
+
+No campo de análise de dados e machine learning, utilizo bibliotecas como Scikit-learn, Pandas, NumPy e Matplotlib para construção e avaliação de modelos preditivos, visualização de dados e manipulação de grandes volumes de informação.
+
+Também possuo vivência com metodologias ágeis como Scrum, Kanban e Extreme Programming (XP), aplicadas em ambientes colaborativos e iterativos. Para controle de versão e trabalho em equipe, utilizo Git e GitHub, com práticas de branching, pull requests e versionamento contínuo.
+
+Além disso, tenho conhecimentos em arquitetura e redes de computadores, Business Intelligence (BI) e análise de dados corporativos, além de noções de Cloud Computing com AWS, Azure e Google Cloud. Busco constantemente aprimorar minhas habilidades técnicas e explorar novas ferramentas, com foco em me desenvolver cada vez mais nas áreas de Machine Learning, Cloud e Desenvolvimento Full Stack.
+
+
 
 Aqui no meu perfil você encontra alguns dos projetos que participei/estou participando:
 
 *Hi, my name is Júlia, I’m 23 years old, and I’m studying Systems Analysis and Development at the Federal Institute of Pernambuco. I’m a very curious person and always in search of knowledge. This trait led me to explore the field of technology, discover something I enjoy, and also find a way to challenge myself. I have a proactive attitude and dedicate myself to projects that help me grow professionally. I’m always open to new challenges and opportunities to apply what I learn, whether at university, personal projects, or collaborations.*
 
-*My main technologies are Python and Java, which I use for backend development, data analysis, and machine learning. I also have experience with frameworks like Django for web development, and I’m familiar with relational databases (MySQL, SQLite) and non-relational ones (MongoDB). On the front-end, I work with HTML, CSS, and JavaScript to build simple and functional interfaces. Additionally, I use Git and GitHub for version control and collaboration. I’m always looking to deepen my knowledge in new languages and tools, especially in Machine Learning and Cloud Computing.*
+*I’m currently interning at Nutrihouse as a Full Stack Developer, where I have the opportunity to apply and enhance my technical knowledge, contribute to the company’s growth, and further develop my practical skills.*
+
+*My main technologies are Python and JavaScript, which I use for both development and data analysis, as well as for building machine learning applications. I have hands-on experience with frameworks such as Django and Spring Boot for backend web development, and React.js and Node.js for creating and integrating dynamic interfaces on both the frontend and backend. For interface design and prototyping, I use Figma, along with Bootstrap and Tailwind CSS for responsive styling.*
+
+*I work on the complete development lifecycle of applications, from database modeling to the creation of REST APIs and system integration. I’m proficient in relational databases such as MySQL, SQLite, MariaDB, and PostgreSQL, and I also have experience with non-relational databases like MongoDB, focusing on optimized queries and efficient data structuring.*
+
+*In the field of data analysis and machine learning, I use libraries such as Scikit-learn, Pandas, NumPy, and Matplotlib to build and evaluate predictive models, visualize data, and handle large datasets.*
+
+*I also have practical experience with agile methodologies like Scrum, Kanban, and Extreme Programming (XP), applied in collaborative and iterative environments. For version control and teamwork, I use Git and GitHub, following best practices for branching, pull requests, and continuous versioning.*
+
+*Additionally, I have knowledge of computer architecture and networking, Business Intelligence (BI), and corporate data analysis, along with a foundational understanding of Cloud Computing with AWS, Azure, and Google Cloud. I’m constantly working to improve my technical skills and explore new tools, focusing on developing further in the areas of Machine Learning, Cloud, and Full Stack Development.*
 
 *Here on my profile, you can find some of the projects I have participated in/am participating in:*
 
